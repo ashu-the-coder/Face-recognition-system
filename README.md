@@ -53,20 +53,6 @@ This project is a Flask web application that utilizes face recognition technolog
 
 4. Use the interface to add new users, capture their images, and track attendance.
 
-
-1. Ensure you have the necessary files:
-   - `background.png`: Background image for the attendance interface.
-   - `haarcascade_frontalface_default.xml`: Pre-trained face detection model.
-
-2. Run the application:
-   ```bash
-   python app.py
-   ```
-
-3. Open your web browser and navigate to `http://127.0.0.1:5000/` to access the application.
-
-4. Use the interface to add new users, capture their images, and track attendance.
-
 ## Dependencies
 
 - Flask
